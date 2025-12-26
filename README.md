@@ -42,5 +42,6 @@ Exploratory analysis of Netflix’s movies and TV shows catalog to understand co
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Author
-**Your Name** — Aspiring Data Scientist
+**Abdul Ahad** — Aspiring Data Scientist & ML Engineer
+
 
